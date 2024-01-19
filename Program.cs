@@ -27,11 +27,11 @@ class Program
 
         List<Weapon> playerWeapons = new List<Weapon>
 {
-    new Weapon("Катана", 8, 100),
-    new Weapon("Скимитор", 30, 100),
-    new Weapon("Кинжал", 17, 100),
-    new Weapon("Жезл молний", 23, 100),
-    new Weapon("Молот", 12, 100)
+    new Weapon("Катана", 31, 100),
+    new Weapon("Скимитор", 26, 100),
+    new Weapon("Кинжал", 13, 100),
+    new Weapon("Жезл молний", 21, 100),
+    new Weapon("Молот", 18, 100)
 };
         List<Weapon> weapons = new List<Weapon>
 {
